@@ -2,4 +2,4 @@
 
 Cojocariu Alexandru, An III, Grupa A2
 
-Aceasta este la SI in care demonstram functionalitatea algoritmilor EBC si CFB
+Aceasta este tema la SI in care demonstram functionalitatea algoritmilor EBC si CFB.
